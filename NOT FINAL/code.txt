@@ -1,0 +1,17 @@
+> Dog (inherited animal, mammal)
+
+= __init__
+Unique Stats: name, age, health = 100
+- name
+- age
+- health
+- animal_type = 'Dog'
+
+= Bark
+Unique Stats: text
+- say text
+
+= Chase
+Unique Stats: target
+- say f'I am going to get {target}'
+END

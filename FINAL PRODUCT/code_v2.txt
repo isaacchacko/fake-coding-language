@@ -1,0 +1,16 @@
+my first name is Isaac
+my last name is Chacko
+my age is 14
+delete my age
+my age is 14
+increase my age by 2
+decrease my age by 1
+my shopping list contains apples, bananas, and strawberries
+append grapes to my shopping list
+remove apples from my shopping list
+pop #0 from my shopping list
+what is my first name
+repeat to me my last name
+what is my age
+what is my shopping list
+ask press enter to exit this proof of concept.
